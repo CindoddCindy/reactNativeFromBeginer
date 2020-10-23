@@ -1,0 +1,4 @@
+#Thu Oct 22 18:15:48 WIB 2020
+base.0=/home/oem/Dokumen/ProjectReact/ReactFromAtoZ/reactNativeFromBeginer/reactTextInput/reactComponentTextInput/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
